@@ -1,0 +1,41 @@
+body {
+	height: 500px;
+	width: 800px;
+	font-size: 0;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 90px;
+}
+
+.top {
+	width: 50%;
+	height: 200px;
+	border: 1px black solid;
+	display: inline-block;
+}
+
+.bottom {
+	width: 33.33%;
+	height: 300px;
+	border: 1px black solid;
+	display: inline-block;
+}
+
+.box1 {
+	background-color: green;
+}
+
+.box2 {
+	background-color: blue;
+}
+
+.box3 {
+	background-color: gray;
+}
+
+.box4 {
+	background-color: black;
+}
+
+.box5 {
+	background-color: orange;
